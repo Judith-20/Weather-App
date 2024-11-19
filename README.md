@@ -98,6 +98,8 @@ A simple weather application that allows users to get the current weather inform
 **For an invalid city:**
 `Error: Could not fetch weather data`
 
+## Live Demo
+[Weather App Live](https://judith-20.github.io/Weather-App/)
 
 ---
 
