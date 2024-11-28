@@ -26,7 +26,8 @@ button[type="submit"] {
     padding: 10px 20px;
     font-weight: bold;
     font-size: 1.2rem;
-    background-color: hsl(122, 100%, 71%);
+    /* background-color: hsl(122, 100%, 71%); */
+    background-color: blue;
     color: white;
     border: none;
     border-radius: 5px;
