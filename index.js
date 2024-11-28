@@ -28,7 +28,7 @@ async function getWeatherData(city) {
   console.log(apiUrl);
 
   if (!apiUrl.ok) {
-    throw new Error("Could not fetch weather data");
+    throw new Error("Could not fetch the~ weather data");
   }
   return apiUrl.json();
 }
